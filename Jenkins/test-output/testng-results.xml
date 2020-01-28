@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18179" started-at="2020-01-28T09:30:18Z" finished-at="2020-01-28T09:30:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18179" started-at="2020-01-28T09:30:18Z" finished-at="2020-01-28T09:30:36Z">
+      <class name="Practice.Jenkins.ExcelReadData">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Practice.Jenkins.ExcelReadData@39c0f4a]" name="launchBrowser" is-config="true" duration-ms="4733" started-at="2020-01-28T09:30:18Z" finished-at="2020-01-28T09:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="tc()[pri:0, instance:Practice.Jenkins.ExcelReadData@39c0f4a]" name="tc" duration-ms="12567" started-at="2020-01-28T09:30:23Z" finished-at="2020-01-28T09:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:Practice.Jenkins.ExcelReadData@39c0f4a]" name="quit" is-config="true" duration-ms="795" started-at="2020-01-28T09:30:35Z" finished-at="2020-01-28T09:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Practice.Jenkins.ExcelReadData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
