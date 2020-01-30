@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16091" started-at="2020-01-30T04:35:31Z" finished-at="2020-01-30T04:35:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16091" started-at="2020-01-30T04:35:31Z" finished-at="2020-01-30T04:35:47Z">
+      <class name="Sample.Testproject.Fileupload">
+        <test-method status="PASS" signature="file()[pri:0, instance:Sample.Testproject.Fileupload@28d25987]" name="file" duration-ms="16044" started-at="2020-01-30T04:35:31Z" finished-at="2020-01-30T04:35:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- file -->
+      </class> <!-- Sample.Testproject.Fileupload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
